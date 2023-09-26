@@ -56,3 +56,15 @@ body {
   grid-template-rows: (2 1fr); */
   gap: 10px;
 }
+
+/* div:nth-child(2) {
+  background: red;
+}
+
+li:nth-child(2) {
+  background: lightgreen;
+}
+
+:nth-child(3) {
+  background: yellow;
+} */
